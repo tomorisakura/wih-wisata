@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wih Wisata</string>
+    <string name="like_label">Like</string>
+    <string name="informasi_wisata">Informasi Wisata</string>
+    <string name="wishlist_label">Tambah Ke Wishlist !</string>
+    <string name="harga_label">Harga Destinasi Wisata</string>
+    <string name="wish_list">Wish List</string>
+    <string name="grevy">Reski Arianto</string>
+    <string name="about_label">About Me</string>
+    <string name="contact_label">Contact</string>
+    <string name="email_label">Email</string>
+</resources>
